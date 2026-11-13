@@ -11,6 +11,9 @@ public class AsistenciaDTO {
     public void setId(Long id) { this.id = id; }
     public Long getClienteId() { return clienteId; }
     public void setClienteId(Long clienteId) { this.clienteId = clienteId; }
+    
     public LocalDateTime getFechaHoraIngreso() { return fechaHoraIngreso; }
     public void setFechaHoraIngreso(LocalDateTime fechaHoraIngreso) { this.fechaHoraIngreso = fechaHoraIngreso; }
-}
+}git add .
+git commit -m "cambios alejandro simba"
+git push origin Alejandro-Simba
